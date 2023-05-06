@@ -1,7 +1,6 @@
 
 ![Banner](./banner.jpg)
 <h1>Hello my name is Umar !</h1>
-```html
 <!-- sample html code  -->
 <head>
     <meta charset="UTF-8">
@@ -91,7 +90,6 @@
 
     </script>
 </body>
-```
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Master2907/count.svg" />
