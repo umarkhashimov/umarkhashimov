@@ -16,7 +16,7 @@
 --- 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarkhashimov&show_icons=true&theme=tokyonight)
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=8&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-umarkhashimov&langs_count=8&layout=compact&theme=tokyonight)
 
 
 🎉 Feel free to connect if you'd like to collaborate!
