@@ -15,7 +15,6 @@
 - 📂 Repositories: I have a total of public ![GitHub repos count](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/umarkhashimov&query=$.public_repos&label=Repos&color=blue&style=flat-square)
 --- 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarkhashimov&show_icons=true&theme=tokyonight)
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarkhashimov&langs_count=8&layout=compact&theme=tokyonight)
 
 
